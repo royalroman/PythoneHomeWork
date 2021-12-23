@@ -1,1 +1,1 @@
-pythonProject
+Сдача домашних работ GB
